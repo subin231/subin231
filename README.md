@@ -1,6 +1,8 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=&animation=&fontColor=000000&fontSize=70" />
+    <div align= "center">
     <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+    </div>
 </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello, I’m a developer, SUBIN </h2>  
